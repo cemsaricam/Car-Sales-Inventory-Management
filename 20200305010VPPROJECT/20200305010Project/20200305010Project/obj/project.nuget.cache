@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3OWhmyF6pr88SpEiz2iAyUDscexgo3CAdLpWsbIPVE9WBF1dRCmqPxqLk91NrcXyO8W/PjW3PkY1f2FW+3ZWVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cemsa\\source\\repos\\20200305010Project\\20200305010Project\\20200305010Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cemsa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\cemsa\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
